@@ -1,7 +1,6 @@
 `<%@taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="description" content="">
@@ -37,10 +36,8 @@
         </div>
     </div>
     <!-- Search Wrapper Area End -->
-
     <!-- ##### Main Content Wrapper Start ##### -->
     <div class="main-content-wrapper d-flex clearfix">
-
         <!-- Mobile Nav (max width 767px)-->
         <div class="mobile-nav">
             <!-- Navbar Brand -->
@@ -52,7 +49,6 @@
                 <span></span><span></span><span></span>
             </div>
         </div>
-
         <!-- Header Area Start -->
         <header class="header-area clearfix">
             <!-- Close Icon -->
@@ -104,7 +100,5 @@
     <script src="js/plugins.js"></script>
     <!-- Active js -->
     <script src="js/active.js"></script>
-
 </body>
-
 </html>
